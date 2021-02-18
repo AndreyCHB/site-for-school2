@@ -2,6 +2,10 @@
   "name": "site-for-school",
   "version": "1.0.0",
   "description": "site",
+  "engines": {
+    "node": "12.6.0",
+    "npm": "6.9.0"
+  },
   "main": "app.js",
   "scripts": {
     "build":"webpack",
